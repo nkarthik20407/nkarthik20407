@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 3D Header / Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&color=FF6F61&center=true&vCenter=true&width=435&lines=Hello+I'm+Sanskar+Patil;Student+at+Heart;Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&color=FF6F61&center=true&vCenter=true&width=435&lines=Hello+I'm+Sanskar+Patil;Student+at+NIT+Polytechnic;Developer;Open+Source+Enthusiast" alt="Typing SVG" />
   
   <br/>
 
