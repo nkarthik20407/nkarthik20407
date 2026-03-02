@@ -1,32 +1,50 @@
 <div align="center">
 
-# Hi there, I'm Sanskar Patil (Kartik) 👋
+  <!-- 3D Header / Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&color=FF6F61&center=true&vCenter=true&width=435&lines=Hello+I'm+Sanskar+Patil;Student+at+Heart;Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  
+  <br/>
 
-[![Polytechnic Student](https://img.shields.io/badge/Status-Polyctechnic%20Student-blue?style=for-the-badge&logo=gitbook)](https://github.com/kartiknandanwar)
-[![Nagpur, India](https://img.shields.io/badge/Location-Nagpur%2C%20Maharashtra-orange?style=for-the-badge&logo=india)](https://en.wikipedia.org/wiki/Nagpur)
+  <!-- 3D Styled Card for Profile Intro -->
+  <div style="perspective: 1000px;">
+    <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.1); max-width: 600px; transform: rotateX(5deg);">
+      <h3 style="color: #fff; margin: 0;">👨‍💻 About Me</h3>
+      <p style="color: #a0a0a0; font-size: 0.9rem;">
+        I am a passionate developer based in India. I love building interactive web applications and exploring new technologies. Welcome to my digital playground! 🚀
+      </p>
+      <div style="display: flex; gap: 10px; margin-top: 10px;">
+        <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat-square&logo=cplusplus" alt="C++" />
+        <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat-square&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/Code-JavaScript-orange?style=flat-square&logo=javascript" alt="JS" />
+      </div>
+    </div>
+  </div>
 
-Computer Engineering student focusing on Java, full-stack web dev (HTML/CSS/React), databases (MySQL/SQL), and Minecraft Java modding. Building projects, content for YouTube/Pinterest, and exploring freelancing.
+  <br/>
 
-## 🛠️ Tech Stack & Skills
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nkarthik20407&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkarthik20407&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
+  
+  <br/>
 
-- 🌐 Web: HTML, CSS, React, full-stack basics
-- 💻 Languages: Java (OOP, exceptions, vectors), Python, SQL/PL-SQL
-- 🗄️ Databases: MySQL connectivity & management
-- 🎮 Gaming: Minecraft Java modding, modpacks, Forge/Fabric
-- 🎨 Design: Figma UI/UX prototyping
-- 📱 Tools: VS Code, GitHub, YouTube content creation
+  <!-- 3D Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkarthik20407&bg_color=0d1117&color=ff6f61&line=39ff14&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
-
-**📧 Email: nkarthik20407@gmail.com**
-**📍 Nagpur, Maharashtra, India**
-
----
+  <br/>
+  
+  <!-- Connect Badges -->
+  <p>Connect with me:</p>
+  <a href="https://www.linkedin.com/in/sanskar-patil-390531381" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:sanskarpatil20407@gmail.com"> <!-- Replace with your email if different -->
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
 
 </div>
+
+---
+<!-- Optional: Add a footer -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nkarthik20407
