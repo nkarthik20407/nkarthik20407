@@ -21,13 +21,6 @@
   </div>
 
   <br/>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nkarthik20407&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkarthik20407&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
-  
-  <br/>
-
   <!-- 3D Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkarthik20407&bg_color=0d1117&color=ff6f61&line=39ff14&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
